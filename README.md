@@ -1,16 +1,14 @@
-## Hi there 👋
+# Saif Ali
 
-<!--
-**lotstriker/lotstriker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web apps for inventory management and personal finance. I'm interested in making everyday workflows easier to use on phones.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+| --- | --- |
+| [AlishanApp](https://github.com/lotstriker/alishanapp) | Inventory, payments, and reporting, with draft review before entries are submitted. |
+| [Finora](https://github.com/lotstriker/finoraapp) | An offline-first personal finance app for tracking accounts, expenses, loans, and savings goals. |
+
+## Tools I work with
+
+JavaScript · HTML · CSS · Node.js · PostgreSQL · Supabase · IndexedDB
