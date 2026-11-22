@@ -1,14 +1,20 @@
 # Saif Ali
 
-I build web apps for inventory management and personal finance. I'm interested in making everyday workflows easier to use on phones.
+I build mobile-friendly web apps for inventory management and personal finance.
 
 ## Featured projects
 
-| Project | What it does |
-| --- | --- |
-| [AlishanApp](https://github.com/lotstriker/alishanapp) | Inventory, payments, and reporting, with draft review before entries are submitted. |
-| [Finora](https://github.com/lotstriker/finoraapp) | An offline-first personal finance app for tracking accounts, expenses, loans, and savings goals. |
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [AlishanApp](https://github.com/lotstriker/alishanapp) | Inventory, payments, and reporting, with a draft review step before entries are submitted. | JavaScript, Node.js, PostgreSQL, Supabase |
+| [Finora](https://github.com/lotstriker/finoraapp) | An installable, offline-first finance app for accounts, expenses, loans, and savings goals. | HTML, CSS, JavaScript, IndexedDB |
 
-## Tools I work with
+## GitHub activity
 
-JavaScript · HTML · CSS · Node.js · PostgreSQL · Supabase · IndexedDB
+**Contributions over the last 31 days**
+
+[![Saif Ali's GitHub contribution activity over the last 31 days](https://github-readme-activity-graph.vercel.app/graph?username=lotstriker&theme=github-compact&hide_border=true&area=true)](https://github.com/lotstriker#contribution-activity)
+
+**Languages across public repositories**
+
+[![Language breakdown across Saif Ali's public repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=lotstriker&layout=compact&hide_border=true)](https://github.com/lotstriker?tab=repositories)
