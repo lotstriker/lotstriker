@@ -1,6 +1,8 @@
 <!-- Profile README for github.com/lotstriker -->
 <div align="center">
 
+<img src="profile-banner.svg" alt="Saif Ali — software development and product engineering" width="100%" />
+
 # Saif Ali
 
 ### Independent Developer · Web Applications · Product Engineering
@@ -15,6 +17,8 @@ I build practical web applications with a focus on **reliability, clean user exp
 ---
 
 ## Featured work
+
+<p align="center"><em>Selected projects focused on business workflows, offline-first software, and useful everyday tools.</em></p>
 
 <table>
 <tr>
@@ -80,6 +84,8 @@ A related project in the Alishan application ecosystem.
 
 ## Technology
 
+<p align="center"><em>Tools and platforms used across the featured projects.</em></p>
+
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -92,6 +98,8 @@ A related project in the Alishan application ecosystem.
 </p>
 
 ## GitHub activity
+
+<p align="center"><em>Public contribution and language visualizations. These are provided by third-party chart services and may occasionally be unavailable.</em></p>
 
 <div align="center">
 
