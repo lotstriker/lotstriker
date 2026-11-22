@@ -6,10 +6,12 @@ I build mobile-friendly web apps for inventory management and personal finance.
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [AlishanApp](https://github.com/lotstriker/alishanapp) | Inventory, payments, and reporting, with a draft review step before entries are submitted. | JavaScript, Node.js, PostgreSQL, Supabase |
+| [AlishanApp](https://github.com/lotstriker/alishanapp) | Inventory, payments, and reporting, with a [Draft → Review → Inventory walkthrough](https://github.com/lotstriker/alishanapp#entry-walkthrough). | JavaScript, Node.js, PostgreSQL, Supabase |
 | [Finora](https://github.com/lotstriker/finoraapp) | An installable, offline-first finance app for accounts, expenses, loans, and savings goals. | HTML, CSS, JavaScript, IndexedDB |
 
 ## GitHub activity
+
+These charts refresh from public GitHub data. Updates can take time to appear because the chart services and GitHub cache images.
 
 **Contributions over the last 31 days**
 
